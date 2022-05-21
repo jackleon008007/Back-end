@@ -24,7 +24,6 @@
       <Folder Include="SocialMedCenter\Persistence\Context" />
       <Folder Include="SocialMedCenter\Persistence\Repositories" />
       <Folder Include="SocialMedCenter\Resources" />
-      <Folder Include="SocialMedCenter\Services" />
     </ItemGroup>
 
 </Project>
